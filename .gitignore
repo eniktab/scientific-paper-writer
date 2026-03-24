@@ -1,0 +1,4 @@
+writing_outputs/
+*.pyc
+__pycache__/
+.DS_Store
